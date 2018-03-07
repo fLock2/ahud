@@ -10,10 +10,10 @@
 
 	KnucklesCrosses
 	{
-		"visible" 		"0"
-		"enabled" 		"0"
+		"visible" 		"1"
+		"enabled" 		"1"
 		
-		"labelText"		"a"
+		"labelText"		"h"
 		
 		"controlName"	"CExLabel"
 		"fieldName"	 	"KnucklesCrosses"
@@ -22,6 +22,7 @@
 		"ypos" 		 	"c-25"
 		"wide" 		 	"50"
 		"tall" 		 	"50"
+		
 		
 		"font"			"size:30,outline:off"	// size: range 10-50
 												// outline: on or off
@@ -48,8 +49,8 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c92"
-		"ypos"	"c65"
+		"xpos"	"c33"
+		"ypos"	"c10"
 		"wide"	"150"
 		"tall"	"125"
 	}
@@ -1556,5 +1557,20 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"fillcolor"		"255 0 0 255"
+	}
+	"TransparentViewmodelMask"
+	{
+		//alpha doesn't work for this, you need to change the texture's alpha
+		"ControlName"	"ImagePanel"
+		"fieldName"		"TransparentViewmodelMask"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-100"
+		"wide"			"f0"
+		"tall"			"480"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"replay/thumbnails/REFRACTnormal_transparent"
+		"scaleImage"	"1"
 	}
 }

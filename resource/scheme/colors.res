@@ -6,22 +6,22 @@ Scheme
 		// CUSTOM COLORS
 		//---------------------------------------------
 			
-		"Crosshair"				"0 0 0 255"
+		"Crosshair"				"242 242 242 255"
 		"CrosshairDamage"		"255 0 0 255"		// For no damage flash, set to the
 													// same value as Crosshair
 		
 		"HP"					"243 243 243 255"
-		"HP Buff"				"0 255 127 255"
-		"HP Low"				"200 45 45 255"
+		"HP Buff" 				"0 255 127 255"
+		"HP Low"				"0 0 0 0"
 		
-		"Damage Numbers"		"255 255 0 255"
+		"Damage Numbers"		"201 0 28 255"
 		"Healing Numbers"		"0 255 127 255"
 		
 		"Ammo In Clip"			"243 243 243 255"
 		"Ammo In Reserve"		"0 191 255 255"
 		"Ammo No Clip"			"243 243 243 255"
-		"LowAmmo1"				"200 45 45 255"
-		"LowAmmo2"				"255 45 45 255"
+		"LowAmmo1"				"0 0 0 0"
+		"LowAmmo2"				"0 0 0 0"
 		
 		"Stickies"				"243 243 243 255"
 		"Metal"					"243 243 243 255"
@@ -43,6 +43,7 @@ Scheme
 		"ahudDarkBlue"			"46 73 82 255"
 		"ahudRed"				"158 64 61 255"
 		"ahudDarkRed"			"102 48 46 255"
+		"fLockRed"				"201 0 28 255"
 		
 		"ahudGreen"				"92 122 90 255"
 		"ahudDarkGreen"			"38 53 36 255"

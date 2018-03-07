@@ -1,4 +1,4 @@
-// Default 12v12 and 6v6 scoreboard
+// 16v16 and 6v6 scoreboard
 
 "Resource/UI/Scoreboard.res"
 {
@@ -31,7 +31,7 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"BlueScoreBG"
 		"xpos"			"c-280"
-		"ypos"			"115"
+		"ypos"			"90"
 		"ypos_minmode"	"153"
 		"zpos"			"3"
 		"wide"			"280"
@@ -103,7 +103,7 @@
 		"ypos"			"0"
 		"zpos"			"-1"
 		"wide"			"560"
-		"tall"			"228"
+		"tall"			"279"
 		"tall_minmode"	"152"
 		"visible"		"1"
 		"enabled"		"1"
@@ -472,11 +472,11 @@
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"BluePlayerList"
 		"xpos"			"c-280"
-		"ypos"			"138"
+		"ypos"			"113"
 		"ypos_minmode"	"176"
 		"zpos"			"20"
 		"wide"			"280"
-		"tall"			"168"
+		"tall"			"220"
 		"tall_minmode"	"92"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -498,11 +498,11 @@
 		"ControlName"	"SectionedListPanel"
 		"fieldName"		"RedPlayerList"
 		"xpos"			"c0"
-		"ypos"			"138"
+		"ypos"			"113"
 		"ypos_minmode"	"176"
 		"zpos"			"20"
 		"wide"			"280"
-		"tall"			"168"
+		"tall"			"220"
 		"tall_minmode"	"92"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -936,7 +936,7 @@
 		if_mvm
 		{
 			"visible"		"1"
-			"ypos"			"-6"
+			"ypos"			"-32"
 			"ypos_minmode"	"32"
 		}
 

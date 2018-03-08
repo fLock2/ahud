@@ -7,3 +7,5 @@ You can get more info on the hud there.
 * removed low health and low ammo warnings
 * font changed to fira sans
 * added transparent viewmodels
+* removed labels for meters (ie bonk)
+* moved kill counters to the center (ie eyelander)

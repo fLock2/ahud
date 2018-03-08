@@ -5,7 +5,7 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c122"	
+		"xpos"			"c-38"	
 		"ypos"			"374"
 		"wide"			"75"
 		"tall"			"20"
@@ -48,7 +48,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"aRegular10"
+		"font"					"aRegular8"
 		"fgcolor_override"		"ahudWhite"
 	}
 

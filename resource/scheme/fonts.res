@@ -222,6 +222,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+				"aRegular11"
+		{
+			"1"
+			{
+				"name"		"Fira Sans Regular"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"aRegular12"
 		{
 			"1"
@@ -707,6 +717,17 @@ Scheme
 				"blur"		"1"
 			}
 		}
+		"aRegularShadow11"
+		{
+			"1"
+			{
+				"name"		"Fira Sans Regular"
+				"tall"		"11"
+				"additive"	"0"
+				"antialias" "1"
+				"blur"		"1"
+			}
+		}
 		"aRegularShadow12"
 		{
 			"1"
@@ -966,7 +987,7 @@ Scheme
 			"1"
 			{
 				"name"		"Fira Sans Regular"
-				"tall"		"8"
+				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
 				"dropshadow"	"1"

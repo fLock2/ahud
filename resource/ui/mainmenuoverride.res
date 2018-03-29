@@ -1038,7 +1038,7 @@
 			"fieldName"		"SubButton"
 			"xpos"			"0"
 			"ypos"			"0"
-			"wide"			"30"
+			"wide"			"20"
 			"tall"			"20"
 			"autoResize"	"0"
 			"pinCorner"		"3"
@@ -1387,12 +1387,12 @@
 		"ControlName"	"CExButton"
 		"fieldName"		"ahudLabel"
 		"font"			"aRegular48"
-		"labelText"		"fHud"
+		"labelText"		"ahud"
 		"textAlignment"	"center"
 		"xpos"			"0"
 		"ypos"			"64"
 		"wide"			"170"
-		"tall"			"35"
+		"tall"			"30"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -1517,6 +1517,7 @@
 		"scaleImage"	"1"	
 		"alpha"			"75"
 	}
+
 	"RankPanel"
 	{
 		"ControlName"	"CPvPRankPanel"
@@ -1557,8 +1558,8 @@
 		"labelText"		"#TF_MM_NoGC_Rank"
 		"textAlignment"	"west"
 		"use_proportional_insets"	"1"
- 	}
- 
+	}
+
 	"NoGCImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -1589,8 +1590,6 @@
 		"border"		"NoBorder"
 		"proportionaltoparent"	"1"
 	}	
-
-	}
 
 	"CallVoteButton"	//IN-GAME BUTTON
 	{

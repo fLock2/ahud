@@ -1223,10 +1223,10 @@
 		"visible"				"0"
 		"enabled"				"1"
 		"xpos"					"r200"
-		"ypos"					"300"
+		"ypos"					"rs1"
 		"zpos"					"10"
-		"wide"					"270"
-		"tall"					"180"
+		"wide"					"190"
+		"tall"					"f0"
 	}
 	
 	HudTFCrosshair
@@ -1557,20 +1557,5 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"fillcolor"		"255 0 0 255"
-	}
-	"TransparentViewmodelMask"
-	{
-		//alpha doesn't work for this, you need to change the texture's alpha
-		"ControlName"	"ImagePanel"
-		"fieldName"		"TransparentViewmodelMask"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"-100"
-		"wide"			"f0"
-		"tall"			"480"
-		"visible"		"1"
-		"enabled"		"1"
-		"image"			"replay/thumbnails/REFRACTnormal_transparent"
-		"scaleImage"	"1"
 	}
 }
